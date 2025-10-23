@@ -1,0 +1,9 @@
+{
+  "name": "Lagos-Island Customer Agent",
+  "description": "Chat interface agent for last-mile delivery on Lagos Island using motor-bike or mini-van.",
+  "version": "0.1.0",
+  "protocols": ["ChatProtocol"],
+  "vehicles_supported": ["motor-bike", "mini-van"],
+  "geography": "Lagos Island, Lagos, NG",
+  "logo_uri": "https://yourdomain.com/logo.png"
+}

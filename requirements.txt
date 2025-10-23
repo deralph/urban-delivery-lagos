@@ -1,0 +1,6 @@
+uagents
+metta-stdlib   # or whichever MeTTa python package you choose
+fastapi       # for possible simple web chat interface
+uvicorn       # needed for fastapi
+networkx      # for routing graph (optional)
+geopandas     # for road data (optional)

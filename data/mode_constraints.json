@@ -1,0 +1,5 @@
+{
+  "narrow_width_threshold": 4.0,
+  "van_allowed_width": 4.0,
+  "modes": ["motor-bike", "mini-van"]
+}
